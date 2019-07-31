@@ -48,6 +48,11 @@ To contribute:
 | Amazon | September |  | |
 | Fitbit | August |  | |
 | Walmart/Jet | August |  | |
+| Netapp | | | 
+| HubSpot| | |
+| Box| | | 
+| Yammer | | | 
+
 
 ## Resources and recommended readings
 - Cracking the PM Interview – Gayle Laakmann McDowell, Jackie Bavaro
