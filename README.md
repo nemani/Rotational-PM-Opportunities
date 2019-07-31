@@ -4,7 +4,10 @@ This repository is a place to keep track of Rotational Product Manager Roles, th
 Also a handy list of resources that might be useful.
 
 Currently keeping track of opportunities for Summer 2020. 
+
+
 Never too early to get started in your search!
+
 Inspired by [Summer2020Internships](https://github.com/elaine-zheng/summer2020internships)
 
 
