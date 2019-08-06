@@ -19,13 +19,13 @@ To contribute:
 
 | Company  & Website |  Application Period |  Internships | Notes |
 |---|---|---|---|
-|[FB RPMs](http://fbrpms.com/)| August 1st | Unclear | 3 x 6 months rotations|
+|[FB RPMs](http://fbrpms.com/)| Open | No | 3 x 6 months rotations|
 |[Google APM Program](https://buildyourfuture.withgoogle.com/programs/apm-program)| London Full Time - Open, others open Fall 2019 | Yes | 4 x 6 months rotations |
-|[Uber APMs](https://www.uberapms.com/) | [August 1st]([https://www.uberapms.com/lead-gen](https://www.uberapms.com/lead-gen)) | No |3 x 6 months  [FB Page](https://www.facebook.com/uberapms)|
-|[Twitter APM](http://www.twitterapm.com/#about-the-program)| August 1st | Mostly Yes | To apply, select "Product" as one of your career interests and "Associate Product Management" as a program interest on the University application. 2 x 1 Year Rotations|
-| [Yahoo / Oath / Verizon](https://yahooapms.com/)| August 1st  | No | 2 x 1 Year Rotations |
-| [Atlassian APM](https://www.atlassian.com/company/careers/detail/f078fd3b-6414-4e63-88c1-6f63ea272d93)| OPEN! | [YES](https://www.atlassian.com/company/careers/detail/eaddddfd-f67f-4353-a96f-8f85ffd6e755) | 
-| [Dropbox](https://www.dropbox.com/jobs/teams/eng_university_grads) | August | No | will be listed on university page|
+|[Uber APMs](https://www.uberapms.com/) | [Open]([https://www.uberapms.com/lead-gen](https://www.uberapms.com/lead-gen)) | No |3 x 6 months  [FB Page](https://www.facebook.com/uberapms)|
+|[Twitter APM](http://www.twitterapm.com/#about-the-program)| Open | Yes | To apply, select "Product" as one of your career interests and "Associate Product Management" as a program interest on the University application. 2 x 1 Year Rotations|
+| [Yahoo / Oath / Verizon](https://yahooapms.com/)| Open  | No | 2 x 1 Year Rotations |
+| [Atlassian APM](https://www.atlassian.com/company/careers/detail/f078fd3b-6414-4e63-88c1-6f63ea272d93)| Open | [YES](https://www.atlassian.com/company/careers/detail/eaddddfd-f67f-4353-a96f-8f85ffd6e755) | 
+| [Dropbox](https://www.dropbox.com/jobs/teams/eng_university_grads) | [Open](https://www.dropbox.com/jobs/listing/1792900) | No | Application deadline: Friday, October 18th, 2019 at 5:00PM PT|
 | [LinkedIn](https://careers.linkedin.com/apm) | August |  Mostly Yes | 2 x 9 Months Rotations |
 |[Yelp](https://www.yelp.com/careers/teams/college-engineering) | August | Mostly Yes| Will be listed on college recruiting page |
 | [Kleiner Perkins Fellows](http://fellows.kleinerperkins.com/) | January | No | Unique as across companies |
@@ -33,20 +33,20 @@ To contribute:
 | [Intuit RPM](https://www.intuitrpm.com/) | September | Yes | 2 Years|
 | [Cisco JRP]((http://www.thembajrp.com/)) | September | No | **MBA** |
 | [Zynga](https://www.zynga.com/jobs/university/) | September | Yes | |
-| Microsoft | August |  | |
-| Lyft | September |  | |
-| Pocket Gems | September |  | |
+| Microsoft | [August](https://careers.microsoft.com/students/us/en/search-results) | Unclear | Unclear search page |
+| [Lyft](https://www.lyft.com/careers/apm) | September | No | 3 x 6 months [FB Page](https://www.facebook.com/lyftapm/)|
+| Pocket Gems | [Open](https://boards.greenhouse.io/pocketgems/jobs/973578) | No | 2 years |
 | Asana | September |  | |
 | Redfin | September |  | |
 | IBM | September |  | |
-| Indeed | September |  | |
-| Yext | September |  | |
+| [Indeed](https://university.indeed.jobs/tech/) | September |  | |
+| Yext [UPWARD Program](https://boards.greenhouse.io/yext/jobs/1582781) | Open | No | [One other similar found](https://boards.greenhouse.io/yext/jobs/1300517)|
 | Salesforce | September |  | |
 | Hulu | September |  | |
-| Visa | September |  | |
+| [Visa](https://usa.visa.com/careers/university-recruiting.html) | September |  | |
 | Turnitin | September |  | |
 | Amazon | September |  | |
-| Fitbit | August |  | |
+| Fitbit | [Open](https://boards.greenhouse.io/fitbit92/jobs/1673941) |  | MBA|
 | Walmart/Jet | August |  | |
 | Netapp | | | 
 | HubSpot| | |
