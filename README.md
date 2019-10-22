@@ -50,7 +50,8 @@ To contribute:
 | Walmart/Jet | August |  | |
 | Netapp | | | 
 | HubSpot| | |
-| Box| | | 
+| Box| | |
+| [Unity](https://careers.unity.com/position/product-manager-intern-ai-unity/1890993?gh_src=ilfw6o)| Open now| Yes |
 
 ## Resources and recommended readings
 - [Pramp: Mock PM Interviews with another candidate ](https://www.pramp.com/invt/7GB1dzPWvYhjNGyNgo2p)
